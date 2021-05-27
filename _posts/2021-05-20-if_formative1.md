@@ -79,7 +79,7 @@ return 0;
 }~~~   
 ---
 
-categories: "형성평가"
+categories: 형성평가
  
  
  
