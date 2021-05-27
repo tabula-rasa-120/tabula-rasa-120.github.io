@@ -30,6 +30,8 @@ toc_label: "페이지 주요 목차"
 }~~~
    
 ---
+   
+   
 ### 02. 세 개의 터널 통과하기
 
  ![if2](/assets/images/if2.jpg)   
@@ -49,6 +51,8 @@ else
 printf("무사 통과");   
 return 0;   
 }~~~   
+
+---   
 
 ### 03. 이 달은 며칠까지 있을까?   
 ![if3](/assets/images/if3.jpg)   
@@ -73,6 +77,9 @@ printf("28일");
 printf("입니다.\n");   
 return 0;   
 }~~~   
+---
+
+categories: "형성평가"
  
  
  
