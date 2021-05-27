@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "수학교육과"
+title                    : "이다솜"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이다솜"
-description              : "수학교육"
+description              : "HAFS 16기"
 url                      : "https://dlektha120.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dlektha120/dlektha120.github.io"
